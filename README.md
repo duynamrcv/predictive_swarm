@@ -23,6 +23,7 @@ python3 plot.py
 | Motion paths | Speed |
 | :---:        |     :---:      |
 |  <img src="results/path.png" alt="" width="100%" >   | <a href="results/vision_False.gif"><img src="results/speed.png" alt="" width="100%" ></a>    |
+
 | Inter-agent distance | Order metric |
 | :---:        |     :---:      |
 |  <img src="results/distance.png" alt="" width="100%" >   | <img src="results/order.png" alt="" width="100%" >    |
